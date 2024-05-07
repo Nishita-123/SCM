@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Exit The Plugin Project</title>
+    <style>
+        body {
+            background-image: url("images/bg.webp");
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+        .container {
+            /* display: none; */
+        }
+
+        .box {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            position: absolute;
+            padding: 10px;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: grey;
+            color: black;
+            border: 3px solid black;
+            border-style: solid;
+            border-radius: 10px;
+        }
+
+        .close {
+            position: absolute;
+            left: 100%;
+            top: 0;
+            margin: -10px 0 0 -10px;
+            width: 20px;
+            height: 20px;
+            color: white;
+            font-size: 13px;
+            font-weight: bold;
+            text-align: center;
+            border-radius: 50%;
+            background-color: grey;
+            border-style: solid;
+            border-color: black;
+            cursor: pointer;
+            text-decoration: none;
+            padding-top: 3px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box">
+            <div>
+                    <center>
+                        <h1><strong> WAIT!</strong></h1>
+                        <b>Get 30% off on today's order <br>with this code: </b>
+                        <h1>SVNA30</h1>
+                        <a href="#" class="close">X</a>
+                    </center>
+            </div>
+            <div> <img src="images/img.webp" alt="gift hamper" width="250" height="220" style="vertical-align:right; ">
+            </div>
+        </div>
+    </div>
+    <script src="./index.js"></script>
+</body>
+
+</html>
