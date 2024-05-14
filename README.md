@@ -1,4 +1,4 @@
-![image](https://github.com/Nishita-123/SCM/assets/156787530/0ae6a1fd-3503-40a6-b6dd-74d3970360ad)![image](https://github.com/Nishita-123/SCM/assets/156787530/63d152bc-19d1-4daf-991a-6ec090507453)# EXIT THE PLUGIN
+# EXIT THE PLUGIN
 
 This group contains 3 members and this is a project based on exit the plugin.
 
