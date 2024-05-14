@@ -1,13 +1,15 @@
-# Source Code Management Project
+![image](https://github.com/Nishita-123/SCM/assets/156787530/0ae6a1fd-3503-40a6-b6dd-74d3970360ad)![image](https://github.com/Nishita-123/SCM/assets/156787530/63d152bc-19d1-4daf-991a-6ec090507453)# EXIT THE PLUGIN
+
+This group contains 3 members and this is a project based on exit the plugin.
+
+## Collaborators
+1. Niharika Thukral (2310990585) - NiharikaThukral
+2. Nikita (2310990586) - Nikita586
+3. Nishita (2310990588) - Nishita-123
 
 ## Description
 
-This project is a web-based source code management system designed to facilitate collaborative software development. It provides a user-friendly interface for version control, branching, merging, and issue tracking. Built with modern technologies such as React.js for the frontend and Node.js for the backend, this system offers a seamless experience for teams to manage their projects efficiently.
-
-## Collaborators
-1. Niharika Thukral (2310990585) -
-2. Nikita (2310990586) - Nikita586
-3. Nishita (2310990588) - Nishita-123
+The content of the exit pop-up will encourage the viewer to complete an action of their choosing .Exit pop-ups are easy to implement and efficient way of generating leads, driving sales, and helping the site to convert against its other goals. User’s mouse movements are tracked so as soon as they show intent of exiting a site, a pop-up appears. 
 
 
 ## Installation
