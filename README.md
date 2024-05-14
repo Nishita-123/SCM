@@ -29,5 +29,5 @@ We welcome contributions from the community! To contribute to the project:
 2. Clone your forked repository:
 3. Create a new branch for your feature or bug fix:
 4. Make changes and commit them:
-5. Push to your branch:
+5. Push to your branch
 6. Open a pull request to merge your changes into the main branch.
