@@ -1,4 +1,4 @@
-Exit the Plugin Project
+##Exit the Plugin Project
 
 ## Overview:
 This project aims to develop a front-end solution for the Exit the Plugin project. The goal is to create a user-friendly interface that allows users to seamlessly exit the plugin and return to the main application.The content of the exit pop-up will encourage the viewer to complete an action of their choosing .Exit pop-ups are easy to implement and efficient way of generating leads, driving sales, and helping the site to convert against its other goals. User’s mouse movements are tracked so as soon as they show intent of exiting a site, a pop-up appears.
