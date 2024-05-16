@@ -97,7 +97,7 @@ a {
 }
 .leftBox {
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column;
     gap: 20px;
 }
 .leftBox h2 {
@@ -195,4 +195,4 @@ a {
     font-size: 20px;
     font-style: italic;
     text-align: center;
-  }
+  } */
