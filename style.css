@@ -97,7 +97,7 @@ a {
 }
 .leftBox {
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column;
     gap: 20px;
 }
 .leftBox h2 {
@@ -167,7 +167,7 @@ a {
     border-radius: 50%;
     background-color: grey;
     border-style: solid;
-    /* border-color: black;
+    border-color: black;
     cursor: pointer;
     text-decoration: none;
     padding-top: 3px;
